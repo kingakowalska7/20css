@@ -1,0 +1,52 @@
+body {
+    background-color:burlywood;
+    background-size: cover;
+}
+
+h1{
+    background-color:red;
+}
+
+.first-paragrath {
+    background-color:aqua;
+    
+    }
+
+    h2{
+        background-color:blueviolet;
+    }
+    
+.second-paragrath {
+    background-color:greenyellow;
+        
+  }
+        
+  ol {
+       background-color:azure;
+    }
+
+    
+    .item1 {
+        color:brown;
+        
+        } 
+
+        .item2 {
+            color:pink;
+            
+            } 
+
+            .item3 {
+                color:yellow;
+                
+                } 
+
+                .item4 {
+                    color:orange;
+                    
+                    } 
+                    .item5 {
+                        color:grey;
+                        
+                        } 
+
